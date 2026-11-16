@@ -1,0 +1,6 @@
+{
+  "name": "Bebebalm POS & Inventory",
+  "description": "Mobile Point-of-Sale and Inventory Management app in React Native (Expo) with barcode scanning, local persistence, and an interactive web preview.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
